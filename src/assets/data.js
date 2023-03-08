@@ -1,9 +1,9 @@
 export default [
     {
         id: 1,
-        title: "60% Keyboards",
-        img: "60.png",
-        price: "$150.00 USD",
+        title: "Constellation PCB",
+        img: "constellationpcb.png",
+        price: "$65.00 USD",
     },
     {
         id: 2,
