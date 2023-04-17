@@ -84,6 +84,17 @@
     align-items: center;
     gap: 0.5rem;
     padding-bottom: 4rem;
+    position: relative;
+}
+
+.card--badge {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    background-color: a.$white;
+    padding: 5px 7px;
+    border-radius: 2px;
+    font-weight: bold;
 }
 
 // Footer
